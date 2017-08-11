@@ -19,15 +19,12 @@ http://shop.oreilly.com/product/0636920048336.do
 
 ## Web Design
 
-* Meyer E, _CSS: The definitive guide 4th Ed_
-https://www.amazon.co.uk/gp/product/1449393195/ref=zg_bsnr_269422_62?ie=UTF8&psc=1&refRID=178VNH11CMC1JMMYVEPX
-
+* Meyer, E (forthcoming) _CSS: The definitive guide 4th Ed_
+http://shop.oreilly.com/product/0636920012726.do
 * McElroy, K (2017) _Prototyping for Designers_
 http://shop.oreilly.com/product/0636920049487.do
-
 * Pearl, C, _Designing Voice User Interfaces_
 http://shop.oreilly.com/product/0636920050056.do
-
 * Pavliscak, P (2017) _Designing for Happiness_
 http://shop.oreilly.com/product/0636920049036.do
 
