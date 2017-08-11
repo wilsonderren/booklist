@@ -1,5 +1,5 @@
 # booklist
-A list of books for reading and possible purchase.
+A list of books for reading and possible purchase. 'NL' means not in the library. 'L' means in the library.
 
 ## Coding
 
@@ -30,9 +30,9 @@ http://shop.oreilly.com/product/0636920049036.do
 
 ## Design
 
-* Montiero, M (2012) _Design is a Job_
-* Montiero, M (2012) _You're my favourite client_
-* Nelson, G (2017) _How to See: Visual Adventures in a World God Never Made_ 2nd ed.
+* Montiero, M (2012) _Design is a Job_ NL 
+* Montiero, M (2012) _You're my favourite client_ NL
+* Nelson, G (2017) _How to See: Visual Adventures in a World God Never Made_ 2nd ed. NL
 
 ## Context
 
