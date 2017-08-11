@@ -15,6 +15,12 @@ http://shop.oreilly.com/product/0636920037972.do
 Banks, A (2017) _Learning React: Functional Web Development with React and Flux_
 http://shop.oreilly.com/product/0636920049579.do
 
+Reas, C (2014) _Processing: a programming handbook for visual designers and artists_ L
+
+Bohnacker, H (2012) _Generative Design_ L
+
+
+
 ## UX
 
 Nunally, B (2016) _UX Research_
@@ -32,6 +38,7 @@ http://shop.oreilly.com/product/0636920050056.do
 http://shop.oreilly.com/product/0636920049036.do
 * Hogan, L (2014) _Designing for Performance: weighting aesthetics and speed_
 http://shop.oreilly.com/product/0636920033578.do
+* Pickering, H (2016) _Inclusive Design Patterns: Coding Accessibility into Web Design_ L
 
 ## Design
 
