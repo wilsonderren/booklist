@@ -25,6 +25,7 @@ Bohnacker, H (2012) _Generative Design_ L
 
 Nunally, B (2016) _UX Research_
 http://shop.oreilly.com/product/0636920048336.do
+Cooper, A _About Face_ (need 4th ed)
 
 ## Web Design
 
@@ -42,6 +43,16 @@ http://shop.oreilly.com/product/0636920033578.do
 
 ## Design
 
+* Tufte, E _Envisioning Information_
+* Fletcher, A _The Art of Looking Sideways_
+* Heller, S _100 ideas that changed graphic design_
+* Hofmann, A _Graphic Design Manual: Principles and Practice_
+* Lupton, E _Graphic Design: The New Basics_
+* Ruder, E _Typographie_
+* Elam, K  _Grid Systems_
+* Elam, K _Geometry of Design_
+* Albers, J _Interaction of Colour_
+* Leborg, C _Visual Grammar_
 * Montiero, M (2012) _Design is a Job_ NL 
 * Montiero, M (2012) _You're my favourite client_ NL
 * Nelson, G (2017) _How to See: Visual Adventures in a World God Never Made_ 2nd ed. NL
