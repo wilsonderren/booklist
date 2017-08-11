@@ -19,26 +19,26 @@ http://shop.oreilly.com/product/0636920048336.do
 
 ## Web Design
 
-Meyer E, _CSS: The definitive guide 4th Ed_
+* Meyer E, _CSS: The definitive guide 4th Ed_
 https://www.amazon.co.uk/gp/product/1449393195/ref=zg_bsnr_269422_62?ie=UTF8&psc=1&refRID=178VNH11CMC1JMMYVEPX
 
-McElroy, K (2017) _Prototyping for Designers_
+* McElroy, K (2017) _Prototyping for Designers_
 http://shop.oreilly.com/product/0636920049487.do
 
-Pearl, C, _Designing Voice User Interfaces_
+* Pearl, C, _Designing Voice User Interfaces_
 http://shop.oreilly.com/product/0636920050056.do
 
-Pavliscak, P (2017) _Designing for Happiness_
+* Pavliscak, P (2017) _Designing for Happiness_
 http://shop.oreilly.com/product/0636920049036.do
 
 ## Design
 
-Montiero, M (2012) _Design is a Job_
-Montiero, M (2012) _You're my favourite client_
-Nelson, G (2017) _How to See: Visual Adventures in a World God Never Made_ 2nd ed.
+* Montiero, M (2012) _Design is a Job_
+* Montiero, M (2012) _You're my favourite client_
+* Nelson, G (2017) _How to See: Visual Adventures in a World God Never Made_ 2nd ed.
 
 ## Context
 
-Greenfield, A (2017) _Radical Technologies_
-Wachter-Boettcher, S (forthcoming) _Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech_
+* Greenfield, A (2017) _Radical Technologies_
+* Wachter-Boettcher, S (forthcoming) _Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech_
 
