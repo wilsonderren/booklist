@@ -12,6 +12,11 @@ https://www.amazon.co.uk/gp/product/1491961651/ref=zg_bsnr_269422_28?ie=UTF8&psc
 Bellamy-Royds, A (2017) _Using SVG with CSS3 and HTML5_
 http://shop.oreilly.com/product/0636920037972.do
 
+## UX
+
+Nunally, B (2016) _UX Research_
+http://shop.oreilly.com/product/0636920048336.do
+
 ## Web Design
 
 Meyer E, _CSS: The definitive guide 4th Ed_
