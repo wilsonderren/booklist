@@ -36,6 +36,7 @@ http://shop.oreilly.com/product/0636920049036.do
 * Montiero, M (2012) _Design is a Job_ NL 
 * Montiero, M (2012) _You're my favourite client_ NL
 * Nelson, G (2017) _How to See: Visual Adventures in a World God Never Made_ 2nd ed. NL
+* Lidwell, W (2010) _Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design_ L:https://capitadiscovery.co.uk/mmu/items/1918158
 
 ## Context
 
