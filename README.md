@@ -46,6 +46,8 @@ http://shop.oreilly.com/product/0636920033578.do
 * Montiero, M (2012) _You're my favourite client_ NL
 * Nelson, G (2017) _How to See: Visual Adventures in a World God Never Made_ 2nd ed. NL
 * Lidwell, W (2010) _Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design_ L:https://capitadiscovery.co.uk/mmu/items/1918158
+* Tolley, S (2016) _Min: The New Simplicity in Graphic Design_
+* Greever, T (2015) _Articulating Design Decisions_ http://shop.oreilly.com/product/0636920037422.do
 
 ## Context
 
