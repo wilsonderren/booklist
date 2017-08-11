@@ -30,6 +30,8 @@ http://shop.oreilly.com/product/0636920049487.do
 http://shop.oreilly.com/product/0636920050056.do
 * Pavliscak, P (2017) _Designing for Happiness_
 http://shop.oreilly.com/product/0636920049036.do
+* Hogan, L (2014) _Designing for Performance: weighting aesthetics and speed_
+http://shop.oreilly.com/product/0636920033578.do
 
 ## Design
 
