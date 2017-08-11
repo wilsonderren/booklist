@@ -33,3 +33,12 @@ http://shop.oreilly.com/product/0636920049036.do
 
 ## Design
 
+Montiero, M (2012) _Design is a Job_
+Montiero, M (2012) _You're my favourite client_
+Nelson, G (2017) _How to See: Visual Adventures in a World God Never Made_ 2nd ed.
+
+## Context
+
+Greenfield, A (2017) _Radical Technologies_
+Wachter-Boettcher, S (forthcoming) _Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech_
+
