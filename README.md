@@ -59,6 +59,7 @@ http://shop.oreilly.com/product/0636920033578.do
 * Lidwell, W (2010) _Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design_ L:https://capitadiscovery.co.uk/mmu/items/1918158
 * Tolley, S (2016) _Min: The New Simplicity in Graphic Design_
 * Greever, T (2015) _Articulating Design Decisions_ http://shop.oreilly.com/product/0636920037422.do
+* Helfand, J (2017) _Design: The Invention of Desire_
 
 ## Context
 
