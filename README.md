@@ -17,6 +17,8 @@ http://shop.oreilly.com/product/0636920049579.do
 
 Reas, C (2014) _Processing: a programming handbook for visual designers and artists_ L
 Bohnacker, H (2012) _Generative Design_ L
+Marquis, M (2016) _Javascript for Web Designers_
+
 
 
 
