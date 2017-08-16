@@ -24,9 +24,10 @@ Marquis, M (2016) _Javascript for Web Designers_
 
 ## UX
 
-Nunally, B (2016) _UX Research_
+* Nunally, B (2016) _UX Research_
 http://shop.oreilly.com/product/0636920048336.do
-Cooper, A _About Face_ (need to order 4th ed for the Library)
+* Cooper, A _About Face_ (need to order 4th ed for the Library)
+* Saffer, D _Microinteractions_ http://shop.oreilly.com/product/0636920027676.do
 
 ## Web Design
 
@@ -62,6 +63,11 @@ http://shop.oreilly.com/product/0636920033578.do
 * Greever, T (2015) _Articulating Design Decisions_  
 http://shop.oreilly.com/product/0636920037422.do
 * Helfand, J (2017) _Design: The Invention of Desire_
+* King, R _Designing with Data: Improving the User Experience with A/B Testing_ http://shop.oreilly.com/product/0636920026228.do
+* McElroy, K _Prototyping for Designers: Developing the Best Digital and Physical Products_
+http://shop.oreilly.com/product/0636920049487.do
+* Greever, T _Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience_ http://shop.oreilly.com/product/0636920037422.do
+* Connor, A _Discussing Design: Improving Communication and Collaboration through Critique_ http://shop.oreilly.com/product/0636920033561.do
 
 ## Context
 
