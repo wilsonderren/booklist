@@ -3,21 +3,13 @@ A list of books for reading and possible purchase. 'NL' means not in the library
 
 ## Coding
 
-Russell, M (2017) _Mining the Social Web: data mining Facebook, twitter, LinkedIn, Google+, GitHub and more_
-http://shop.oreilly.com/product/0636920030195.do
-
-Ater, T (2017) _Building Progressive Web Apps: Bringing the Power of Native to the Browser_
-http://shop.oreilly.com/product/0636920052067.do
-
-Bellamy-Royds, A (2017) _Using SVG with CSS3 and HTML5_
-http://shop.oreilly.com/product/0636920037972.do
-
-Banks, A (2017) _Learning React: Functional Web Development with React and Flux_
-http://shop.oreilly.com/product/0636920049579.do
-
-Reas, C (2014) _Processing: a programming handbook for visual designers and artists_ L
-Bohnacker, H (2012) _Generative Design_ L
-Marquis, M (2016) _Javascript for Web Designers_
+* Russell, M (2017) _Mining the Social Web: data mining Facebook, twitter, LinkedIn, Google+, GitHub and more_ http://shop.oreilly.com/product/0636920030195.do
+* Ater, T (2017) _Building Progressive Web Apps: Bringing the Power of Native to the Browser_ http://shop.oreilly.com/product/0636920052067.do
+* Bellamy-Royds, A (2017) _Using SVG with CSS3 and HTML5_ http://shop.oreilly.com/product/0636920037972.do
+* Banks, A (2017) _Learning React: Functional Web Development with React and Flux_ http://shop.oreilly.com/product/0636920049579.do
+* Reas, C (2014) _Processing: a programming handbook for visual designers and artists_ L
+* Bohnacker, H (2012) _Generative Design_ L
+* Marquis, M (2016) _Javascript for Web Designers_ L
 
 
 
