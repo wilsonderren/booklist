@@ -65,4 +65,5 @@ http://shop.oreilly.com/product/0636920049487.do
 
 * Greenfield, A (2017) _Radical Technologies_
 * Wachter-Boettcher, S (forthcoming) _Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech_
+* Bowles, C (2019) _Future Ethics_
 
